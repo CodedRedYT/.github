@@ -28,7 +28,7 @@
 <details open>
   <summary><h2>🔎 How To View The Video Source Codes</h2></summary>
   <p> 
-    1. Become a <a href="https://www.patreon.com/codedred?fan_landing=true&view_as=public">Patron</a> for as little as <a href="https://www.amazon.com/under-3/s?k=items+under+%243"> $3</a>! 
+    1. Become a <a href="https://www.patreon.com/codedred?fan_landing=true&view_as=public">Patreon Supporter</a> for as little as <a href="https://www.youtube.com/watch?v=g7Xz6-cf3nc"> $3</a>! 
   <br> <br>
     2. Connect your Patreon account to your Discord account. For help, check out <a href="https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron-">this</a>.
   <br> <br>
