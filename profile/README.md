@@ -11,25 +11,43 @@
       <a href="https://github.com/CodedRedGIT?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CodedRedGit?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
+  <table align="center">
+    <tr>
+      <th>$3+/month</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.patreon.com/codedred?fan_landing=true&view_as=public"><img src="https://custom-icon-badges.demolab.com/badge/-patreon-D90368?style=for-the-badge&logo=mention" alt="Patreon" /></a>
+      </td>
+    </tr>
+  </table>
   
 
 
+<details open>
+  <summary><h2>🔎 How To View The Video Source Codes</h2></summary>
+  <p> 
+    1. Become a <a href="https://www.patreon.com/codedred?fan_landing=true&view_as=public">Patron</a> for as little as <a href="https://www.amazon.com/under-3/s?k=items+under+%243"> $3</a>! 
+  <br> <br>
+    2. Connect your Patreon account to your Discord account. For help, check out <a href="https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron-">this</a>.
+  <br> <br>
+    3.  Join my <a href="https://discord.gg/gqwtqX3">Discord</a> to request access in the "request-github-access" channel. Keep in mind this channel is only available to Patreon supports that connected Patreon to their Discord account.
+    <br> <br>
+  4. Post your Github username in there and you will be given the access!
+    <br><br>
+    Thank you once again for supporting me!
+  </p>
+</details>
 
+<details closed>
+  <summary><h2>🎁 What About Non-Supporters?</h2></summary>
+  Currently, you can only view the Youtube video tutorial source code through a Patreon Subscription. However, I will be posting free content here soon! Keep your eye out for it!
+</details>
 
+<details closed>
+  <summary><h2>💌 What Repositories Are Available To Supporters?</h2></summary>
+  Depending on the support status you will recieve access to certain repos. <br>
+  <img src="https://imgur.com/7CD6QgH.png">
 
-### Currently **all** source codes from my YouTube videos are *private*! To view the source codes consider [supporting my channel](https://www.patreon.com/codedred).
-
-
-
-## For Supporters: 
-
-*First off, thank you for supporting me!*
-
-You are only a few steps away from viewing these repos! To be given access to your team, please join my community [Discord](https://discord.gg/gqwtqX3) to request access from either me or my server admins. Then, **you will need to connect your Patreon to Discord**. (for help see [this](https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron-)) Once that is completed, you should be able to view a channel named **request-github-access**. Please post your Github username in there and you will be given the access!
-
-Don't have a Discord? No problem, please email me at contact@codedred.dev. Make sure to inform me of your Patreon name and your Github name!
-
-
-## Current Repos:
-Depending on the support status you will recieve access to certain repos.
-![Current Repos](https://imgur.com/7CD6QgH.png)
+</details>
