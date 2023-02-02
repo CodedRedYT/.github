@@ -23,7 +23,13 @@
     </tr>
   </table>
   
-
+<details open>
+  <summary><h2>🔐 What Can I Find Here?</h2></summary>
+  <p>
+    This Github organization contains all source code from every one of CodedRed's Youtube Tutorials and more! Read below to gain access.
+    
+  </p>
+</details
 
 <details open>
   <summary><h2>🔎 How To View The Video Source Codes</h2></summary>
