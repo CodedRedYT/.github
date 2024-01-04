@@ -65,6 +65,12 @@
 
 <details closed>
   <summary><h2>💌 What Repositories Are Available To Supporters?</h2></summary>
-  Depending on your level of support, you will receive access to certain repositories. <br>
+  Depending on your level of support, you will receive access to certain repositories.
+  <br><br>
   <img src="https://imgur.com/V3pWdrC.png">
+  <br><br>
+  <br><br>
+  Each tier has access to the YouTube Tutorial Source Codes. But Tier 2 & 3 will have access to more exclusive tutorial code.
+  <br><br>
+  <img src="https://imgur.com/RUaWthu.png">
 </details>
