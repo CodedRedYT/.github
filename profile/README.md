@@ -15,13 +15,18 @@
 <table align="center">
     <tr>
       <th>$3+/month</th>
+      <th>$3+/month</th>
     </tr>
     <tr>
+      <td>
+        <a href="https://github.com/sponsors/CodedRedYT"><img src="https://custom-icon-badges.demolab.com/badge/-sponsor-D90368?style=for-the-badge&logo=mention" alt="Sponsor" /></a>
+      </td>
       <td>
         <a href="https://www.patreon.com/codedred?fan_landing=true&view_as=public"><img src="https://custom-icon-badges.demolab.com/badge/-patreon-D90368?style=for-the-badge&logo=mention" alt="Patreon" /></a>
       </td>
     </tr>
 </table>
+
   
 <details open>
   <summary><h2>🔐 What Can I Find Here?</h2></summary>
@@ -33,15 +38,23 @@
 <details open>
   <summary><h2>🔎 How To View The Video Source Codes</h2></summary>
   <p> 
-    1. Become a <a href="https://www.patreon.com/codedred?fan_landing=true&view_as=public">Patreon Supporter</a> for as little as $3! 
+    You can now become a sponsor on <a href="https://github.com/sponsors/CodedRedYT">GitHub</a> or <a href="https://www.patreon.com/codedred?fan_landing=true&view_as=public">Patreon</a>! Here's how you can gain access to the repository and view all source code + more:
     <br><br>
-    2. Connect your Patreon account to your Discord account. For help, check out <a href="https://support.patreon.com/hc/en-us/articles/212052266-How-do-I-connect-Discord-to-Patreon-Patron-">this guide</a>.
+    <strong>Option 1: Sponsor on GitHub</strong>
+    <br>
+    1. Become a sponsor on <a href="https://github.com/sponsors/CodedRedYT">GitHub</a>.
+    <br>
+    2. Once you're a sponsor, you will automatically be added to the repository and gain access to the source code.
     <br><br>
-    3. Join my <a href="https://discord.gg/gqwtqX3">Discord server</a> and request access in the "request-github-access" channel. This channel is available only to Patreon supporters who have connected their Patreon to their Discord account.
+    <strong>Option 2: Sponsor on Patreon</strong>
+    <br>
+    1. Become a sponsor on <a href="https://www.patreon.com/codedred?fan_landing=true&view_as=public">Patreon</a>.
+    <br>
+    2. Connect your Patreon account to your GitHub account in your <a href="https://github.com/settings/admin">GitHub settings</a>.
+    <br>
+    3. After connecting your accounts, you will be added to the repository.
     <br><br>
-    4. Post your GitHub username there, and you will be granted access!
-    <br><br>
-    Thank you once again for your support!
+    For additional help, visit my <a href="https://discord.gg/gqwtqX3">Discord community</a>.
   </p>
 </details>
 
